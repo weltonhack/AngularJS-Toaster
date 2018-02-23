@@ -6,3 +6,4 @@ coverage
 # IntelliJ
 .idea/
 *.iml
+/nbproject/private/
